@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm a Full stack developer with financial reporting and analytic background!
-- 🔭 I’m currently working on MERN
+- Full stack developer
+- 🔭 I’m currently working on React/React Native/Firebase/AWS/MongoDb Atlas
 - 👯 I’m looking to collaborate on interesting projects/application development
 - ⚡ Fun fact: I have a corgi!
