@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Full stack developer
-- 🔭 I’m currently working on React/React Native/Firebase/AWS/MongoDb Atlas
+- 🔭 Tech stask: React/React Native/Firebase/AWS/MongoDb Atlas/Azure DevOp
 - 👯 I’m looking to collaborate on interesting projects/application development
 - ⚡ Fun fact: I have a corgi!
